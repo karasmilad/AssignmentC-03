@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            #region Question01
+           #region Question01
             //Console.Write("Enter Number: ");
             //bool Validation = int.TryParse(Console.ReadLine(),out int Number);
             //if (!Validation)
@@ -23,7 +23,7 @@
             //    }
             //}
             #endregion
-            #region Question02
+           #region Question02
             //Console.Write("Enter Number: ");
             //bool CheckNumber = int.TryParse(Console.ReadLine(),out int Number);
             //if (CheckNumber)
@@ -46,7 +46,7 @@
             //    Console.WriteLine("Not Validation input");
             //}
             #endregion
-            #region Question03
+           #region Question03
             //Console.Write("Ener First Number: ");
             //bool firstCheck = int.TryParse(Console.ReadLine(), out int firstNumber);
             //Console.Write("Ener Second Number: ");
@@ -120,7 +120,7 @@
             //    Console.WriteLine("Enter Valid input");
             //}
             #endregion
-            #region Question04
+           #region Question04
             //Console.Write("Enter Number: ");
             //bool Checked = int.TryParse(Console.ReadLine(), out int value);
             //if (Checked) 
@@ -139,7 +139,7 @@
             //    Console.WriteLine("Enter Valid Input");
             //}
             #endregion
-            #region Question05
+           #region Question05
             //Console.Write("Enter Char: ");
             //string? Value = Console.ReadLine();
             //if (Value == "a" || Value == "e" || Value == "l" || Value == "o" || Value == "u") 
